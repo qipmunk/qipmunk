@@ -6,7 +6,7 @@
 - Learning: Blockchain Technology, Machine Learning, Intelligence Setting, Blogging
 - Real Major: Computer Programming Engineering
 - 2022 Goals: Contribute to make the World a better place (regardless of how minor the effect could be 😤)
-    Getting Started: Making contribution to opensource （~￣▽￣~)
+    Getting Started: Making contribution to opensource （￣▽￣)
 - ⚡ Fun fact: I am a vegetarian! (No egg vegetarian 🤪)
 
 ### Connect with me:
