@@ -2,10 +2,11 @@
 
 ## A wild programmer has appeared
 
-- Some Skills: Automation, Web Development (ex. APIs), Software Development (ex. Plugins and Features)
-- Learning: Blockchain Technology, COVID sequences
-- Real Major: Guess 😛
-- 2022 Goals: Make contribution to the World (regardless of how minor the effect could be 😤)
+- Basic Skills: Automation, Web Development (ex. Frontend and Backend, APIs), Software Development (ex. Plugins and Features)
+- Learning: Blockchain Technology, Machine Learning, Intelligence Setting, Blogging
+- Real Major: Computer Programming Engineering
+- 2022 Goals: Contribute to make the World a better place (regardless of how minor the effect could be 😤)
+    Getting Started: Making contribution to opensource （~￣▽￣~)
 - ⚡ Fun fact: I am a vegetarian! (No egg vegetarian 🤪)
 
 ### Connect with me:
