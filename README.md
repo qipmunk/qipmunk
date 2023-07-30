@@ -1,4 +1,4 @@
-### Hi there, I'm Alvin -- aka. the Qimunk 
+### Hi there, I'm Qimunk 
 
 ## A wild programmer has appeared
 
